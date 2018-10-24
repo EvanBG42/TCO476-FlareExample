@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="New Target"
@@ -6,7 +6,8 @@
   Destinations=""
   ConditionTagExpression="include[Default.PrintOnly] exclude[Default.ScreenOnly] "
   MasterToc="/Project/TOCs/Print TOC.fltoc"
-  PatchHeadingLevels="true">
+  PatchHeadingLevels="true"
+  conditions="Default.PrintOnly">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
