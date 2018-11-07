@@ -5,16 +5,13 @@
     Title="[%=System.LinkedTitle%]"
     Link="/Content/AllAboutDChtm" />
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoAttractions.htm"></TocEntry>
+    Title="[%=System.LinkedTitle%]"></TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoCuisine.htm">
+    Title="[%=System.LinkedTitle%]">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Food.htm" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Beer.htm" />
+      Title="[%=System.LinkedTitle%]" />
   </TocEntry>
 </CatapultToc>

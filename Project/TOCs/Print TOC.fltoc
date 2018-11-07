@@ -18,44 +18,22 @@
     Link="/Content/PrintOnlyTopics/PrintTOC.htm"
     BreakType="pageLayout"
     StartSection="false"
-    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl" />
+    PageLayout="/Content/Resources/PageLayouts/TOC.flpgl"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/AllAboutDChtm"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageNumber="1"
-    SectionNumberReset="continue"
-    VolumeNumberReset="same"
-    ChapterNumberReset="continue"
-    ComputeToc="false"
-    ReplaceMergeNode="false"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    PageType="firstright" />
+    Link="/Content/Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoAttractions.htm"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageType="firstright"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
+    Link="/Content/Metro.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/SanDiegoCuisine.htm"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageType="firstright"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Food.htm" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Beer.htm" />
-  </TocEntry>
+    Link="/Content/Museums.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Monuments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Food.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/PrintOnlyTopics/Resources.htm"
