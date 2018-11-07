@@ -5,7 +5,8 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  conditions="Default.ScreenOnly">
+  conditions="Default.ScreenOnly"
+  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] ">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
