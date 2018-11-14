@@ -15,8 +15,8 @@
     GenerateGlossaryProxy="false" />
   <Glossaries />
   <DocumentProperties
-    Author="MadCap Software"
-    Title="All About San Diego" />
+    Author="Evan Gambill"
+    Title="All About DC" />
   <PDF
     ShowUsedBookmarks="false"
     PageLayout="OneColumn"
