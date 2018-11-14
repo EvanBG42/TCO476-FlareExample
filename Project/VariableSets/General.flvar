@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
-    Name="CompanyName">My Company, LLC</Variable>
+    Name="CompanyName"
+    EvaluatedDefinition="Evan's Tours, LLC">Evan's Tours, LLC</Variable>
   <Variable
     Comment=""
     Name="PhoneNumber"
-    EvaluatedDefinition="858 123 4567">858 123 4567</Variable>
+    EvaluatedDefinition="555 223 2655">555 223 2655</Variable>
   <Variable
     Name="StreetAddress"
     Comment=""
@@ -21,7 +22,7 @@
   <Variable
     Name="Website"
     Comment=""
-    EvaluatedDefinition="http://www.madcapsoftware.com">http://www.madcapsoftware.com</Variable>
+    EvaluatedDefinition="http://www.github.com/evanbg42">http://www.github.com/evanbg42</Variable>
   <Variable
     Name="Year"
     Comment=""
@@ -31,5 +32,5 @@
   <Variable
     Name="GuideTitle"
     Comment=""
-    EvaluatedDefinition="All About San Diego">All About San Diego</Variable>
+    EvaluatedDefinition="All About DC">All About DC</Variable>
 </CatapultVariableSet>
