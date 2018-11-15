@@ -1,1 +1,9 @@
 https://travel.stackexchange.com/questions/46780/understanding-the-washington-dc-metro-ticket-machines
+
+TO DO:
+
+- Update variables, Address
+- Blank page before resources
+- Resource page no page number
+- Write food content
+- Images throughout
