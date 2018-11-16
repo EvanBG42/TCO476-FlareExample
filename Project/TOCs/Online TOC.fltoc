@@ -10,7 +10,7 @@
     Title="[%=System.LinkedTitle%]">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Food.htm" />
+      Link="/Content/HStreet.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]" />
   </TocEntry>

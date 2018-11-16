@@ -13,12 +13,12 @@
     Comment=""
     Definition="Some text"
     OriginalName="StreetAddress"
-    EvaluatedDefinition="1234 Lorem Ipsum">1234 Lorem Ipsum</Variable>
+    EvaluatedDefinition="1501 Mercer University Dr">1501 Mercer University Dr</Variable>
   <Variable
     Name="CityStateZip"
     Comment=""
     Definition="Some text"
-    EvaluatedDefinition="La Jolla, CA 92037">La Jolla, CA 92037</Variable>
+    EvaluatedDefinition="Macon, GA 31207">Macon, GA 31207</Variable>
   <Variable
     Name="Website"
     Comment=""
