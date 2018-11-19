@@ -5,11 +5,14 @@ TO DO:
 - Images attribute
 - Blank page before resources
 - Resource page no page number
-- Create new title page
 - Print formatting
 - Online formatting
+- WMATA Metro Map in TOC formatting
+- Memorial imgs
+- Resource H st links
 
 x Write food content
 x Images download
 x Images place
 x Update variables, Address
+x Create new title page
