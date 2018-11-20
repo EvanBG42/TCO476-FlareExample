@@ -1,10 +1,12 @@
 https://travel.stackexchange.com/questions/46780/understanding-the-washington-dc-metro-ticket-machines
 
+https://www.madcapsoftware.com/blog/2013/02/05/tips-and-tricks-a-quick-way-to-insert-images-with-incrementing-figure-captions-2/
+
 TO DO:
 
 - WMATA Metro Map in TOC formatting -> change? Simple DC Map instead
 - branches for formatting tests (online + pdf)
-- Images attribute branch
+- Images attribute branch??
 
 - Blank page before resources
 - Resource page no page number

@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
-  DepSetCode="1080534398"
+  conditions="Default.PrintOnly"
+  DepSetCode="2630156117"
   SavedSource="file:///C:/Coding/school/all-about-DC/Output/Evan/Temporary/All About DC PDF v.1.catapulttoccache">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
@@ -39,13 +40,4 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/HStreet.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/PrintOnlyTopics/Resources.htm"
-    BreakType="chapter"
-    PageType="firstright"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
-    AutoEndOnLeftPage="disabled" />
 </CatapultToc>

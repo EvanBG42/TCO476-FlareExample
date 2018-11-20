@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -127,6 +127,25 @@ ul
 {
 	list-style-image: url('../Images/Bullet1.png');
 }
+
+img
+ {
+     border: none;
+ }
+
+div.figure
+ {
+     background-color: #eeeeee;
+     margin: 10px; 
+     border: solid 1px #cccccc;
+     padding: 10px;
+     text-align: center;
+ }
+
+div.figure p.figurecount
+ {
+     mc-auto-number-format: '{b}figure {n+} - {/b}';
+ }
 
 @media print
 {
