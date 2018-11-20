@@ -2,16 +2,16 @@ https://travel.stackexchange.com/questions/46780/understanding-the-washington-dc
 
 TO DO:
 
-- branch for formatting tests
+- WMATA Metro Map in TOC formatting -> change? Simple DC Map instead
+- Memorial imgs
+- Resource H st links
+- branches for formatting tests (online + pdf)
 
 - Images attribute
 - Blank page before resources
 - Resource page no page number
 - Print formatting (online resources)
 - Online formatting
-- WMATA Metro Map in TOC formatting -> change? Simple DC Map instead
-- Memorial imgs
-- Resource H st links
 - Resources links online only
 - Print resources -> a few QR codes (metro, map, etc)
 - title img -> smaller byline
