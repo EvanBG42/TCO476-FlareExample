@@ -9,13 +9,25 @@
     <Link
       Url="https://www.wmata.com/" />
     <Link
+      Url="Content/Resources/Images/GoogleMapsLiveMetro.PNG" />
+    <Link
+      Url="Content/Resources/Images/SmartripCard.jpg" />
+    <Link
       Url="https://smartrip.wmata.com/storefront" />
+    <Link
+      Url="Content/Resources/Images/SmartripKiosk.jpg" />
   </Links>
   <LongLinks>
     <Link
       Url="https://www.wmata.com/" />
     <Link
+      Url="Content/Resources/Images/GoogleMapsLiveMetro.PNG" />
+    <Link
+      Url="Content/Resources/Images/SmartripCard.jpg" />
+    <Link
       Url="https://smartrip.wmata.com/storefront" />
+    <Link
+      Url="Content/Resources/Images/SmartripKiosk.jpg" />
   </LongLinks>
   <Anchors />
   <Keywords />

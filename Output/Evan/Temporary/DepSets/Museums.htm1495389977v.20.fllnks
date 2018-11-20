@@ -5,8 +5,34 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="Content/Resources/Images/AirAndSpaceMuseum.jpg" />
+    <Link
+      Url="Content/Resources/Images/ArchivesOfAmericanArt.jpg" />
+    <Link
+      Url="Content/Resources/Images/NaturalHistoryMuseum.jpg" />
+    <Link
+      Url="Content/Resources/Images/Newseum.jpg" />
+    <Link
+      Url="Content/Resources/Images/HolocauseMemorialMuseum.jpeg" />
+    <Link
+      Url="Content/Resources/Images/SpyMuseum.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/AirAndSpaceMuseum.jpg" />
+    <Link
+      Url="Content/Resources/Images/ArchivesOfAmericanArt.jpg" />
+    <Link
+      Url="Content/Resources/Images/NaturalHistoryMuseum.jpg" />
+    <Link
+      Url="Content/Resources/Images/Newseum.jpg" />
+    <Link
+      Url="Content/Resources/Images/HolocauseMemorialMuseum.jpeg" />
+    <Link
+      Url="Content/Resources/Images/SpyMuseum.jpg" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />

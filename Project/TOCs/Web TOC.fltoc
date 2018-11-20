@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
-  conditions="Default.PrintOnly">
+  conditions="Default.ScreenOnly">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/PrintOnlyTopics/TitlePage.htm"
@@ -38,4 +38,13 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/HStreet.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/WebOnlyTopics/Resources.htm"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
+    AutoEndOnLeftPage="disabled" />
 </CatapultToc>
