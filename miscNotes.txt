@@ -6,7 +6,6 @@ TO DO:
 
 - WMATA Metro Map in TOC formatting -> change? Simple DC Map instead
 - branches for formatting tests (online + pdf)
-- Images attribute branch??
 
 - Blank page before resources
 - Resource page no page number
@@ -16,10 +15,12 @@ TO DO:
 - Print resources -> a few QR codes (metro, map, etc)
 - title img -> smaller byline
 
+x Images attribute branch
+x Memorial imgs
 x Resource H st links
 x Write food content
 x Images download
 x Images place
 x Update variables, Address
 x Create new title page
-x Memorial imgs
+
