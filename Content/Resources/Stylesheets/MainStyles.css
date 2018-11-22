@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -112,7 +112,6 @@ MadCap|dropDownHead
 	text-transform: uppercase;
 }
 
-
 span.bold
 {
 	font-weight: bold;
@@ -137,4 +136,9 @@ ul
 		mc-format: '"{paratext}" {pageref}';
 		text-decoration: none;
 	}
+}
+
+MadCap|qrCode.QRCode
+{
+	text-align: right;
 }
