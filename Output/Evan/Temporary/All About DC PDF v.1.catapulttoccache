@@ -35,9 +35,11 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Museums.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    BreakType="none"
+    BreakType="chapter"
     StartSection="Unchecked"
-    PageType="normal" />
+    PageType="normal"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Monuments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
