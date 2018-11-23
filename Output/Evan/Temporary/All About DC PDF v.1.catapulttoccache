@@ -27,7 +27,11 @@
     Link="/Content/Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Metro.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/Metro.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Museums.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
