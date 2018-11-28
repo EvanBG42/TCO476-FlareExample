@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="History and Monuments"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/Images/LincolnMemorialPanorama.jpg" />
+    <Link
+      Url="Content/Resources/Images/WashingtonMonument.jpg" />
+    <Link
+      Url="Content/Resources/Images/VietnamMemorialSoldiers.jpg" />
+    <Link
+      Url="Content/Resources/Images/EinsteinMemorialDC.JPG" />
+    <Link
+      Url="Content/Resources/Images/NunsOfTheBattlefield.jpg" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Resources/Images/LincolnMemorialPanorama.jpg" />
+    <Link
+      Url="Content/Resources/Images/WashingtonMonument.jpg" />
+    <Link
+      Url="Content/Resources/Images/VietnamMemorialSoldiers.jpg" />
+    <Link
+      Url="Content/Resources/Images/EinsteinMemorialDC.JPG" />
+    <Link
+      Url="Content/Resources/Images/NunsOfTheBattlefield.jpg" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>
