@@ -6,7 +6,8 @@
   Destinations=""
   GlossaryTermConversion="marked"
   conditions="Default.ScreenOnly"
-  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] ">
+  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] "
+  Skin="/Project/Skins/Snappy.flskn">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
