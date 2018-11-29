@@ -41,11 +41,18 @@
     StartSection="Unchecked"
     PageType="normal"
     AutoEndOnLeftPage="disabled"
-    PageNumberReset="continue" />
+    PageNumberReset="continue"
+    PageNumber="1" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Monuments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/Monuments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    AutoEndOnLeftPage="disabled"
+    PageNumber="1" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/HStreet.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/HStreet.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    AutoEndOnLeftPage="disabled"
+    PageNumber="1" />
 </CatapultToc>
