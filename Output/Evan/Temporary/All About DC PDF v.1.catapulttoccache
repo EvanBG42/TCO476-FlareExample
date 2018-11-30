@@ -57,4 +57,7 @@
     BreakType="chapter"
     AutoEndOnLeftPage="disabled"
     PageNumber="1" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/PrintOnlyTopics/Print Resources.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
