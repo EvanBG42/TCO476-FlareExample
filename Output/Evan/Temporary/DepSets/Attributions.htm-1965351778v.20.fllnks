@@ -4,8 +4,66 @@
   OnlyLocalStylesheets="false"
   FileTimeEstimate="0"
   FilePriority="0">
-  <Links />
-  <LongLinks />
+  <Links>
+    <Link
+      Url="https://www.si.edu/" />
+    <Link
+      Url="http://www.newseum.org/" />
+    <Link
+      Url="https://www.ushmm.org/" />
+    <Link
+      Url="https://www.spymuseum.org/" />
+    <Link
+      Url="https://www.wmata.com/" />
+    <Link
+      Url="https://travel.stackexchange.com/questions/46780/understanding-the-washington-dc-metro-ticket-machines" />
+    <Link
+      Url="https://eatburedo.com/" />
+    <Link
+      Url="http://ilovestickyrice.com/" />
+    <Link
+      Url="http://www.chupacabradc.com/" />
+    <Link
+      Url="https://www.solidstatebooksdc.com/" />
+    <Link
+      Url="https://www.atlasarts.org/" />
+    <Link
+      Url="http://www.nasonline.org/about-nas/visiting-nas/nas-building/the-einstein-memorial.html" />
+    <Link
+      Url="https://www.roadsideamerica.com/story/23403" />
+    <Link
+      Url="https://www.nationalparks.org/" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://www.si.edu/" />
+    <Link
+      Url="http://www.newseum.org/" />
+    <Link
+      Url="https://www.ushmm.org/" />
+    <Link
+      Url="https://www.spymuseum.org/" />
+    <Link
+      Url="https://www.wmata.com/" />
+    <Link
+      Url="https://travel.stackexchange.com/questions/46780/understanding-the-washington-dc-metro-ticket-machines" />
+    <Link
+      Url="https://eatburedo.com/" />
+    <Link
+      Url="http://ilovestickyrice.com/" />
+    <Link
+      Url="http://www.chupacabradc.com/" />
+    <Link
+      Url="https://www.solidstatebooksdc.com/" />
+    <Link
+      Url="https://www.atlasarts.org/" />
+    <Link
+      Url="http://www.nasonline.org/about-nas/visiting-nas/nas-building/the-einstein-memorial.html" />
+    <Link
+      Url="https://www.roadsideamerica.com/story/23403" />
+    <Link
+      Url="https://www.nationalparks.org/" />
+  </LongLinks>
   <Anchors />
   <Keywords />
   <Concepts />
