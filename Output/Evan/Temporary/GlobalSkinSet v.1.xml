@@ -83,7 +83,10 @@
         Name="reference" />
     </Tag>
     <Tag
-      Name="TocEntry" />
+      Name="TocEntry">
+      <Class
+        Name="SubClass" />
+    </Tag>
     <Tag
       Name="IndexEntry" />
     <Tag
@@ -167,6 +170,10 @@
         Name="SelectLanguage" />
       <Class
         Name="SelectSkin" />
+      <Class
+        Name="TopicRatingsEmpty" />
+      <Class
+        Name="Login" />
     </Tag>
     <Tag
       Name="Frame">
@@ -247,12 +254,75 @@
       <Class
         Name="RegisterUser" />
     </Tag>
+    <Tag
+      Name="Main Page" />
+    <Tag
+      Name="Navigation Panel">
+      <Class
+        Name="Browse Sequences" />
+      <Class
+        Name="TOC" />
+      <Class
+        Name="Index" />
+      <Class
+        Name="Glossary" />
+      <Class
+        Name="Community" />
+    </Tag>
+    <Tag
+      Name="Navigation Tab (active)">
+      <Class
+        Name="Browse Sequences" />
+      <Class
+        Name="Glossary" />
+      <Class
+        Name="Index" />
+      <Class
+        Name="TOC" />
+      <Class
+        Name="Community" />
+    </Tag>
+    <Tag
+      Name="Navigation Tab (inactive)">
+      <Class
+        Name="Browse Sequences" />
+      <Class
+        Name="Community" />
+      <Class
+        Name="Glossary" />
+      <Class
+        Name="Index" />
+      <Class
+        Name="TOC" />
+    </Tag>
+    <Tag
+      Name="Topic Container" />
+    <Tag
+      Name="Navigation Tab" />
+    <Tag
+      Name="Search Filter" />
+    <Tag
+      Name="Search Filter Drop-down" />
+    <Tag
+      Name="Search Filter Drop-down (hover)" />
+    <Tag
+      Name="Toolbar Button Separator" />
+    <Tag
+      Name="Navigation Panel Item (hover)" />
+    <Tag
+      Name="Navigation Panel Item (selected)" />
+    <Tag
+      Name="Navigation Panel Item" />
+    <Tag
+      Name="Navigation Panel Item Definition" />
   </Map>
   <SourceUrls>
     <Url
       Source="../Project/Skins/HTML5 - Top Navigation.flskn" />
     <Url
       Source="../Project/Skins/SideMenu.flskn" />
+    <Url
+      Source="../Project/Skins/Snappy.flskn" />
     <Url
       Source="../Project/Skins/TopicToolBar.flskn" />
     <Url
