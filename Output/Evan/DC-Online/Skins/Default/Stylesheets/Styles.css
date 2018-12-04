@@ -118,15 +118,15 @@ body
 	position: absolute;
 	top: 50%;
 	margin-left: 20px;
-	background: url('Images/logo-white.png') no-repeat center center;
-	-pie-background: url('Skins/Default/Stylesheets/Images/logo-white.png') no-repeat center center;
+	background: url('Images/DCLogoSm_1.png') no-repeat center center;
+	-pie-background: url('Skins/Default/Stylesheets/Images/DCLogoSm_1.png') no-repeat center center;
 	background-repeat: no-repeat;
 	background-position: center center;
 	display: block;
 	alt-text: Logo;
-	width: 149px;
-	height: 43px;
-	margin-top: -21px;
+	width: 120px;
+	height: 61px;
+	margin-top: -30px;
 }
 
 #header .logo > img
@@ -1683,8 +1683,8 @@ a.activityText
 
 #header .logo > img
 {
-	width: 149px;
-	height: 43px;
+	width: 120px;
+	height: 61px;
 }
 
 .tab-icon #TocTab.tabs-nav-active .tabs-nav-icon
